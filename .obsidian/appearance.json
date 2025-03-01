@@ -1,0 +1,11 @@
+{
+  "theme": "obsidian",
+  "cssTheme": "ITS Theme",
+  "interfaceFontFamily": "Alegreya SC",
+  "textFontFamily": "Mookmania",
+  "monospaceFontFamily": "Alegreya SC",
+  "baseFontSize": 20,
+  "enabledCssSnippets": [
+    "font"
+  ]
+}
