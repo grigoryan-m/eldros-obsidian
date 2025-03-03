@@ -11,10 +11,14 @@
             "id": "a53c18c20bf2599f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "0. Ширма Мастера/Необходимые здания.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Необходимые здания"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "3. Мир/12. Документы и Манускрипты/Печать Манамоа.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Печать Манамоа"
             }
           },
           {
@@ -108,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "3. Мир/12. Документы и Манускрипты/Печать Манамоа.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Печать Манамоа"
             }
           },
           {
@@ -136,13 +142,23 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md",
+                "file": "3. Мир/12. Документы и Манускрипты/Печать Манамоа.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Welcome"
+              "title": "Outline of Печать Манамоа"
+            }
+          },
+          {
+            "id": "06618225af8a1bb5",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "dices",
+              "title": "Dice Tray"
             }
           }
         ]
@@ -159,13 +175,56 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "templater-obsidian:Templater": false,
-      "github-sync:Sync with Remote": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "39e8ce1c1d63faa7",
+  "active": "a53c18c20bf2599f",
   "lastOpenFiles": [
-    "Welcome.md"
+    "3. Мир/12. Документы и Манускрипты/Печать Манамоа.md",
+    "0. Ширма Мастера/Необходимые здания.md",
+    "3. Мир/12. Документы и Манускрипты/Возвращение Проклятых.md",
+    "Welcome.md",
+    "99. Шаблоны/Школа.md",
+    "99. Шаблоны/Страна.md",
+    "99. Шаблоны/Праздник.md",
+    "99. Шаблоны/Магический предмет.md",
+    "99. Шаблоны/Институт.md",
+    "99. Шаблоны/Город.md",
+    "99. Шаблоны/Божество.md",
+    "99. Шаблоны/Альянс.md",
+    "99. Шаблоны/Блюдо.md",
+    "99. Шаблоны/NPC.md",
+    "99. Шаблоны/Map.md",
+    "99. Шаблоны",
+    "99. Ассеты/Флора и Фауна/Fruit1.jpg",
+    "99. Ассеты/Флора и Фауна/Fire Apple.jpg",
+    "99. Ассеты/Флора и Фауна",
+    "99. Ассеты/НПС/Король Эдриан IV.jpg",
+    "99. Ассеты/НПС/Дулеар Бродмил.jpg",
+    "99. Ассеты/НПС/Вальдерик Безжалостный.jpg",
+    "99. Ассеты/НПС",
+    "99. Ассеты/Карты/2x no trace.png",
+    "99. Ассеты/Гербы/scaonia.png",
+    "99. Ассеты/Гербы/dotral.png",
+    "99. Ассеты/Гербы",
+    "99. Ассеты/Карты",
+    "99. Ассеты/Pasted image 20250301211029.png",
+    "99. Ассеты/Pasted image 20250225220333.png",
+    "99. Ассеты",
+    "3. Мир/99. The Shattered Realms/2. Эпизоды/Глава 1.md",
+    "3. Мир/99. The Shattered Realms/1. Полный сюжет/Главы.md",
+    "3. Мир/99. The Shattered Realms/0. Краткий сюжет/Манамоа и братья.md",
+    "3. Мир/7. Флора и Фауна/1. Фауна/Лазурная Иглохвостка.md",
+    "3. Мир/7. Флора и Фауна/0. Флора/Огненное яблоко.md",
+    "3. Мир/5. Фольклор/Существа/Морской дракон Лург.md",
+    "3. Мир/5. Фольклор/Существа/Краб-колдун Зарток.md",
+    "3. Мир/5. Фольклор/Существа/Великан Враалг.md",
+    "3. Мир/5. Фольклор/Существа/Ведьма Тидра.md",
+    "3. Мир/0. Локации/3. Морские локации/Коралл Сирен.md",
+    "3. Мир/0. Локации/2. Горы и хребты/Клыки Враалга.md",
+    "3. Мир/99. The Shattered Realms/2. Эпизоды",
+    "3. Мир/99. The Shattered Realms/1. Полный сюжет",
+    "3. Мир/99. The Shattered Realms/0. Краткий сюжет",
+    "3. Мир/7. Флора и Фауна/1. Фауна"
   ]
 }

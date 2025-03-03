@@ -1,10 +1,11 @@
 [
-  "obsidian-style-settings",
   "buttons",
-  "dataview",
-  "templater-obsidian",
-  "obsidian-meta-bind-plugin",
   "colored-text",
+  "dataview",
+  "obsidian-dice-roller",
+  "obsidian-leaflet-plugin",
+  "github-sync",
   "obsidian-smart-typography",
-  "github-sync"
+  "obsidian-meta-bind-plugin",
+  "obsidian-style-settings"
 ]

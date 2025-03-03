@@ -1,0 +1,69 @@
+{
+  "command_timeout": 5,
+  "templates_folder": "",
+  "templates_pairs": [
+    [
+      "",
+      ""
+    ]
+  ],
+  "trigger_on_file_creation": true,
+  "auto_jump_to_cursor": false,
+  "enable_system_commands": false,
+  "shell_path": "",
+  "user_scripts_folder": "",
+  "enable_folder_templates": true,
+  "folder_templates": [
+    {
+      "folder": "3. Мир/0. Локации/0. Страны",
+      "template": "99. Шаблоны/Страна.md"
+    },
+    {
+      "folder": "3. Мир/0. Локации/1. Города и деревни",
+      "template": "99. Шаблоны/Город.md"
+    },
+    {
+      "folder": "3. Мир/10. Группы и Альянсы",
+      "template": "99. Шаблоны/Альянс.md"
+    },
+    {
+      "folder": "3. Мир/6. НПС",
+      "template": "99. Шаблоны/NPC.md"
+    },
+    {
+      "folder": "3. Мир/2. Религии и Божества",
+      "template": "99. Шаблоны/Божество.md"
+    },
+    {
+      "folder": "3. Мир/3. Школы и Институты",
+      "template": "99. Шаблоны/Институт.md"
+    },
+    {
+      "folder": "3. Мир/4. Праздники",
+      "template": "99. Шаблоны/Праздник.md"
+    },
+    {
+      "folder": "3. Мир/8. Кухня",
+      "template": "99. Шаблоны/Блюдо.md"
+    },
+    {
+      "folder": "3. Мир/9. Магические предметы",
+      "template": "99. Шаблоны/Магический предмет.md"
+    }
+  ],
+  "enable_file_templates": false,
+  "file_templates": [
+    {
+      "regex": ".*",
+      "template": ""
+    }
+  ],
+  "syntax_highlighting": true,
+  "syntax_highlighting_mobile": false,
+  "enabled_templates_hotkeys": [
+    ""
+  ],
+  "startup_templates": [
+    ""
+  ]
+}
