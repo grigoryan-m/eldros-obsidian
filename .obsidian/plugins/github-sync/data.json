@@ -2,9 +2,5 @@
   "remoteURL": "https://github.com/grigoryan-m/eldros-obsidian",
   "gitLocation": "",
   "syncinterval": 0,
-<<<<<<< HEAD
-  "isSyncOnLoad": false
-=======
   "isSyncOnLoad": true
->>>>>>> 51682670b5595ff9206910effe73fefdec555ce6
 }
