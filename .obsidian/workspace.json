@@ -1,38 +1,52 @@
 {
   "main": {
-    "id": "45c2947e9b406902",
+    "id": "8e112c06170eae0a",
     "type": "split",
     "children": [
       {
-        "id": "d967f949e34e5462",
+        "id": "7e160cfcad0100a8",
         "type": "tabs",
         "children": [
           {
-            "id": "a53c18c20bf2599f",
+            "id": "0400bef34c414774",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. Ширма Мастера/Необходимые здания.md",
+                "file": "3. Мир/13. Бестиарий/Волк.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Необходимые здания"
+              "title": "Волк"
             }
           },
           {
-            "id": "4ae6f9163ac11a6a",
+            "id": "a5bd87996f6e91b0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "3. Мир/0. Локации/1. Города и деревни/Врайвинг.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Врайвинг"
+            }
+          },
+          {
+            "id": "57719132e05c2dd2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3. Мир/0. Локации/0. Страны/Дотрал.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Дотрал"
             }
           }
         ],
@@ -42,15 +56,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "fdcf1f244397154e",
+    "id": "461516db3cf1305c",
     "type": "split",
     "children": [
       {
-        "id": "196512ddf82b3485",
+        "id": "c390951f6595950b",
         "type": "tabs",
         "children": [
           {
-            "id": "39e8ce1c1d63faa7",
+            "id": "ad8f560388bddbd2",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -63,7 +77,7 @@
             }
           },
           {
-            "id": "ec57aa6de823b7f1",
+            "id": "5ea73a55b89cfde9",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -80,7 +94,7 @@
             }
           },
           {
-            "id": "55fc1a8f580f2b7c",
+            "id": "40c277e6bf0112c5",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -96,20 +110,40 @@
     "width": 300
   },
   "right": {
-    "id": "d64b180ed7b6f524",
+    "id": "0b6aee729fbf0a42",
     "type": "split",
     "children": [
       {
-        "id": "09065bd1879917e5",
+        "id": "a0c26c1e14ab438a",
         "type": "tabs",
         "children": [
           {
-            "id": "43bf51714de914c5",
+            "id": "7210de3c12cf4b58",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "dices",
+              "title": "Dice Tray"
+            }
+          },
+          {
+            "id": "96b8f8fdf053ccdf",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "4f107d019a2da6c0",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Мир/12. Документы и Манускрипты/Печать Манамоа.md",
+                "file": "3. Мир/0. Локации/0. Страны/Скаония.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,25 +153,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Печать Манамоа"
+              "title": "Backlinks for Скаония"
             }
           },
           {
-            "id": "a62b4e827f8f6d12",
+            "id": "16171b37c0b89ac0",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Мир/12. Документы и Манускрипты/Печать Манамоа.md",
+                "file": "3. Мир/0. Локации/0. Страны/Скаония.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Печать Манамоа"
+              "title": "Outgoing links from Скаония"
             }
           },
           {
-            "id": "e489cc81b3beaa17",
+            "id": "5d9fe7e4fbb1345c",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -152,97 +186,102 @@
             }
           },
           {
-            "id": "ee58a48dfaaf9acb",
+            "id": "4dd22697c44395f3",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Мир/12. Документы и Манускрипты/Печать Манамоа.md",
+                "file": "3. Мир/0. Локации/0. Страны/Скаония.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Печать Манамоа"
+              "title": "Outline of Скаония"
             }
-          },
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "6c083ed8893cbff4",
+        "type": "tabs",
+        "children": [
           {
-            "id": "06618225af8a1bb5",
+            "id": "e5b380a7c99f00fc",
             "type": "leaf",
             "state": {
-              "type": "DICE_ROLLER_VIEW",
+              "type": "fantasy-statblocks-creature-pane",
               "state": {},
-              "icon": "dices",
-              "title": "Dice Tray"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 471.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "github-sync:Sync with Remote": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-5e-statblocks:Open Creature pane": false,
-      "github-sync:Sync with Remote": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "4ae6f9163ac11a6a",
+  "active": "a5bd87996f6e91b0",
   "lastOpenFiles": [
+    "3. Мир/0. Локации/1. Города и деревни/Зутралак.md",
+    "3. Мир/9. Магические предметы/Жемчуг Луны.md",
     "Untitled.md",
     "0. Ширма Мастера/Необходимые здания.md",
     "3. Мир/12. Документы и Манускрипты/Торговый Документ.md",
+    "3. Мир/10. Группы и Альянсы/Рубеж Торговцев.md",
+    "3. Мир/0. Локации/1. Города и деревни/Зунитралат.md",
+    "3. Мир/0. Локации/0. Страны/Дотрал.md",
+    "3. Мир/5. Фольклор/Сказы об Эалдире, боге морей.md",
+    "3. Мир/15. Классы",
+    "3. Мир/14. Расы",
+    "3. Мир/13. Бестиарий/Волк.md",
     "3. Мир/12. Документы и Манускрипты/Печать Манамоа.md",
-    "3. Мир/12. Документы и Манускрипты/Возвращение Проклятых.md",
-    "Welcome.md",
-    "99. Шаблоны/Школа.md",
-    "99. Шаблоны/Страна.md",
-    "99. Шаблоны/Праздник.md",
-    "99. Шаблоны/Магический предмет.md",
-    "99. Шаблоны/Институт.md",
-    "99. Шаблоны/Город.md",
-    "99. Шаблоны/Божество.md",
-    "99. Шаблоны/Альянс.md",
-    "99. Шаблоны/Блюдо.md",
-    "99. Шаблоны/NPC.md",
-    "99. Шаблоны/Map.md",
-    "99. Шаблоны",
-    "99. Ассеты/Флора и Фауна/Fruit1.jpg",
-    "99. Ассеты/Флора и Фауна/Fire Apple.jpg",
-    "99. Ассеты/Флора и Фауна",
-    "99. Ассеты/НПС/Король Эдриан IV.jpg",
-    "99. Ассеты/НПС/Дулеар Бродмил.jpg",
-    "99. Ассеты/НПС/Вальдерик Безжалостный.jpg",
-    "99. Ассеты/НПС",
-    "99. Ассеты/Карты/2x no trace.png",
-    "99. Ассеты/Гербы/scaonia.png",
-    "99. Ассеты/Гербы/dotral.png",
-    "99. Ассеты/Гербы",
-    "99. Ассеты/Карты",
-    "99. Ассеты/Pasted image 20250301211029.png",
-    "99. Ассеты/Pasted image 20250225220333.png",
-    "99. Ассеты",
     "3. Мир/99. The Shattered Realms/2. Эпизоды/Глава 1.md",
+    "99. Ассеты/Pasted image 20250301211029.png",
+    "3. Мир/13. Бестиарий",
+    "3. Мир/12. Документы и Манускрипты/Возвращение Проклятых.md",
+    "3. Мир/12. Документы и Манускрипты",
+    "3. Мир/0. Локации/0. Страны/Оклург.md",
+    "3. Мир/6. НПС/Дулеар Бродмил.md",
     "3. Мир/99. The Shattered Realms/1. Полный сюжет/Главы.md",
-    "3. Мир/99. The Shattered Realms/0. Краткий сюжет/Манамоа и братья.md",
-    "3. Мир/7. Флора и Фауна/1. Фауна/Лазурная Иглохвостка.md",
-    "3. Мир/7. Флора и Фауна/0. Флора/Огненное яблоко.md",
-    "3. Мир/5. Фольклор/Существа/Морской дракон Лург.md",
-    "3. Мир/5. Фольклор/Существа/Краб-колдун Зарток.md",
-    "3. Мир/5. Фольклор/Существа/Великан Враалг.md",
-    "3. Мир/5. Фольклор/Существа/Ведьма Тидра.md",
-    "3. Мир/99. The Shattered Realms/2. Эпизоды",
-    "3. Мир/99. The Shattered Realms/1. Полный сюжет",
-    "3. Мир/99. The Shattered Realms/0. Краткий сюжет",
-    "3. Мир/7. Флора и Фауна/1. Фауна"
+    "3. Мир/4. Праздники/Трехдневное благословение Эалдира.md",
+    "3. Мир/4. Праздники/Вечер западных ветров.md",
+    "3. Мир/4. Праздники/Торговая Фиеста.md",
+    "1. Заметки/Дулер Бродмил.md",
+    "3. Мир/4. Праздники/Фиеста.md",
+    "3. Мир/0. Локации/0. Страны/Скаония.md",
+    "3. Мир/6. НПС/Вифра Фабрики.md",
+    "3. Мир/6. НПС/Генерал Вальдерик Безжалостный, полководец Скаонии.md",
+    "3. Мир/6. НПС/Король Эдриан IV Великий, правитель Скаонии.md",
+    "3. Мир/6. НПС/Лиракс Путеводитель, первооткрыватель Скаонии.md",
+    "3. Мир/11. Языки",
+    "99. Ассеты/Флора и Фауна/Fire Apple.jpg",
+    "99. Ассеты/Флора и Фауна/Fruit1.jpg",
+    "99. Ассеты/Флора и Фауна/Fire Apple.jpg.opdownload",
+    "99. Ассеты/Флора и Фауна",
+    "99. Ассеты/New folder",
+    "99. Ассеты/Гербы/dotral.png",
+    "3. Мир/10. Группы и Альянсы",
+    "3. Мир/9. Магические предметы",
+    "99. Ассеты/Pasted image 20250225220333.png",
+    "99. Ассеты/НПС/Вальдерик Безжалостный.jpg",
+    "99. Ассеты/Pasted image 20250225215514.png",
+    "99. Ассеты/НПС/Король Эдриан IV.jpg",
+    "99. Ассеты/Гербы/scaonia.png",
+    "99. Ассеты/Карты/2x no trace.png"
   ]
 }
