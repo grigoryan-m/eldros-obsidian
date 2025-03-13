@@ -1,11 +1,7 @@
 {
     "id": "templater-obsidian",
     "name": "Templater",
-<<<<<<< HEAD
     "version": "2.10.0",
-=======
-    "version": "2.9.3",
->>>>>>> 51682670b5595ff9206910effe73fefdec555ce6
     "description": "Create and use templates",
     "minAppVersion": "1.5.0",
     "author": "SilentVoid",
